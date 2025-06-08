@@ -1,0 +1,15 @@
+[2025-06-08 10:52:09 INF] Created product DatabaseConsumer.Models.Product
+[2025-06-08 10:57:26 INF] Fetching all products from the database.
+[2025-06-08 10:58:11 INF] Retrieved product {"Id":1,"Description":"test product","Price":100.00,"$type":"Product"}
+[2025-06-08 10:58:25 WRN] Product with id 2 not found.
+[2025-06-08 11:06:24 INF] Fetching all products from the database.
+[2025-06-08 11:07:29 INF] Created product {"Id":2,"Description":"delete this prpduct","Price":90,"$type":"Product"}
+[2025-06-08 11:07:45 INF] Fetching all products from the database.
+[2025-06-08 11:08:13 WRN] New Product ID does not match existing product ID
+[2025-06-08 11:08:25 INF] Updated product {"Id":2,"Description":"Delete this product","Price":100,"$type":"Product"}
+[2025-06-08 11:08:35 INF] Fetching all products from the database.
+[2025-06-08 11:08:43 INF] Deleted product {"Id":2,"Description":"Delete this product","Price":100.00,"$type":"Product"}
+[2025-06-08 11:08:54 INF] Fetching all products from the database.
+[2025-06-08 11:09:09 INF] Created product {"Id":3,"Description":"New Product!","Price":120,"$type":"Product"}
+[2025-06-08 11:09:11 INF] Fetching all products from the database.
+[2025-06-08 11:23:51 WRN] Product with ID 0 not found
