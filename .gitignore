@@ -1,0 +1,54 @@
+## Build & bin folders
+bin/
+obj/
+**/Debug/
+**/Release/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## EF Core Migrations snapshots (keep .cs files, ignore compiled outputs)
+**/Migrations/*.Designer.cs
+**/Migrations/*ModelSnapshot.cs
+
+## VS Code
+.vscode/
+.vs/
+
+## Rider
+.idea/
+
+## VS Mac
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+*.csproj.nuget.dgspec.json
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## Secrets
+secrets.json
+
+## DotNet Watch
+**/Properties/launchSettings.json
+
+## Environment files
+.env
+.env.*
+
+## Docker-related (optional if using volumes)
+**/sqlvolume/
+**/mssql/
+docker-compose.override.yml
+
+## OS Generated
+.DS_Store
+Thumbs.db
+
+## Project-specific
+DatabaseConsumer.http
