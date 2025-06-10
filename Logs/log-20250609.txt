@@ -1,0 +1,15 @@
+[2025-06-09 16:55:32 INF] Fetching all products from the database.
+[2025-06-09 17:12:13 INF] Retrieved product {"Id":1,"Description":"test product","Price":100.00,"$type":"Product"}
+[2025-06-09 17:12:17 WRN] Product with id 2 not found.
+[2025-06-09 17:12:24 INF] Retrieved product {"Id":3,"Description":"New Product!","Price":120.00,"$type":"Product"}
+[2025-06-09 17:12:28 WRN] Product with id 4 not found.
+[2025-06-09 17:30:38 INF] Created product {"Id":1002,"Description":"Testing new POST","Price":1000,"$type":"Product"}
+[2025-06-09 17:45:45 INF] Fetching all products from the database.
+[2025-06-09 17:47:57 INF] Fetching all products from the database.
+[2025-06-09 17:48:31 INF] Updated product {"Id":1002,"Description":"It works now","Price":109,"$type":"Product"}
+[2025-06-09 17:48:41 INF] Fetching all products from the database.
+[2025-06-09 17:48:51 WRN] Mismatched ID in PUT: URL 1009 and Body 1002
+[2025-06-09 17:49:30 INF] Retrieved product {"Id":1,"Description":"test product","Price":100.00,"$type":"Product"}
+[2025-06-09 18:07:21 INF] Fetching all products from the database.
+[2025-06-09 18:07:29 INF] Deleted product with id 1002
+[2025-06-09 18:07:33 WRN] Attempted to delete non-existent product with ID 1002
