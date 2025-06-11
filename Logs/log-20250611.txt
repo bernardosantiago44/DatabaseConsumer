@@ -1,0 +1,4 @@
+[2025-06-11 09:54:20 INF] Created product {"Id":2002,"Description":"Botella de agua","Price":15,"$type":"Product"}
+[2025-06-11 09:54:45 INF] Created product {"Id":2003,"Description":"Refresco","Price":25,"$type":"Product"}
+[2025-06-11 09:54:52 INF] Created product {"Id":2004,"Description":"Pan","Price":37,"$type":"Product"}
+[2025-06-11 09:54:59 INF] Created product {"Id":2005,"Description":"Galletas","Price":16,"$type":"Product"}
