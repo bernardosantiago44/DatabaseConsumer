@@ -1,0 +1,2 @@
+[2025-06-10 18:28:47 INF] Fetching all products from the database.
+[2025-06-10 18:42:20 INF] Fetching all products from the database.

@@ -7,13 +7,13 @@ namespace DatabaseConsumer.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class ProductsController : ControllerBase
+    public class ProductsAPIController : ControllerBase
     {
 
         private readonly IConfiguration _configuration;
         private readonly string _connectionString;
 
-        public ProductsController(IConfiguration configuration)
+        public ProductsAPIController(IConfiguration configuration)
         {
             _configuration = configuration;
             var connection = _configuration.GetConnectionString("DefaultConnection");
